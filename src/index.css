@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: poppins, sans-serif;
+  background-color: #f0f8ff;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
